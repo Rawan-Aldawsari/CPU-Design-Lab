@@ -93,12 +93,12 @@ Heat ██████████░░░░ 75%
 
 ## 📈 Architecture Insight
 
-      Performance ↑
-         ▲
-         │
-         │
-         │
-         │
+  Performance ↑
+     ▲
+     │
+     │
+     │
+     │
 
 Power ↑ ◄────┼────► Heat ↑
 
@@ -110,11 +110,11 @@ Power ↑ ◄────┼────► Heat ↑
 ## 🛠 Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js">
 </p>
 
+- React.js  
 - HTML / CSS / JavaScript  
-- Flutter (optional)  
 - Custom simulation logic  
 
 ---
