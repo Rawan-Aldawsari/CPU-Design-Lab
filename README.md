@@ -139,7 +139,3 @@ Power ↑ ◄────┼────► Heat ↑
 - 📱 Mobile version
 
 ---
-
-<p align="center">
-  🔥 Built with passion for innovation & smart learning
-</p>
